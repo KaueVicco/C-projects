@@ -25,5 +25,6 @@ void main() {
     {
         printf("Could not find %d in the array\n", search);
     }
+    else
     printf("The number %d was found %d times", search, counter);
 }
